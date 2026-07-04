@@ -64,3 +64,26 @@ header a:last-child {
 .card:hover{
   transform:translateY(-4px);
 }
+.prices{
+  display:grid;
+  grid-template-columns:repeat(auto-fit,minmax(240px,1fr));
+  gap:18px;
+}
+
+.price{
+  background:white;
+  border-radius:22px;
+  padding:24px;
+  box-shadow:0 12px 30px rgba(0,25,112,.18);
+  border:1px solid #dde3ff;
+}
+
+.price h3{
+  color:#001970;
+  margin-top:0;
+}
+
+.price strong{
+  color:#e30613;
+  font-size:34px;
+}
