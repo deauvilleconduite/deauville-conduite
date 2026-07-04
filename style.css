@@ -102,4 +102,30 @@ header a:last-child {
 #documents li::marker{
   color:#e30613;
 }
+.contact{
+  background:#001970;
+  color:white;
+  border-radius:24px;
+  padding:35px;
+  margin-top:40px;
+}
+
+.contact h2{
+  color:white;
+  margin-top:0;
+}
+
+.contact p{
+  margin:12px 0;
+  font-size:18px;
+}
+
+.contact a{
+  color:#fff;
+  font-weight:700;
+}
+
+.contact a:hover{
+  color:#ffd54f;
+}
 
