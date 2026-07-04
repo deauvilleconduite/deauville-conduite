@@ -44,3 +44,23 @@ header a:last-child {
 .hero .btn.secondary{
   margin-left:10px;
 }
+.grid{
+  display:grid;
+  grid-template-columns:repeat(auto-fit,minmax(230px,1fr));
+  gap:18px;
+}
+
+.card{
+  background:white;
+  color:#001970;
+  padding:25px;
+  border-radius:20px;
+  box-shadow:0 12px 30px rgba(0,25,112,.18);
+  border-top:5px solid #e30613;
+  font-size:18px;
+  font-weight:700;
+}
+
+.card:hover{
+  transform:translateY(-4px);
+}
