@@ -35,3 +35,12 @@ header a:last-child {
   padding: 14px 25px;
   border-radius: 30px;
 }
+.hero-address{
+  font-weight:700;
+  font-size:18px;
+  margin-top:10px;
+}
+
+.hero .btn.secondary{
+  margin-left:10px;
+}
