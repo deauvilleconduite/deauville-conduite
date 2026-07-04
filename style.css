@@ -87,3 +87,19 @@ header a:last-child {
   color:#e30613;
   font-size:34px;
 }
+#documents ul{
+  background:white;
+  border-radius:22px;
+  padding:25px 35px;
+  box-shadow:0 12px 30px rgba(0,25,112,.18);
+}
+
+#documents li{
+  margin:12px 0;
+  font-weight:600;
+}
+
+#documents li::marker{
+  color:#e30613;
+}
+
