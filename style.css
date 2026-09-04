@@ -192,3 +192,10 @@ header a:last-child {
   font-weight: bold;
   text-decoration: underline;
 }
+.hero .btn.secondary {
+  color: #1f3a5f;
+}
+
+.hero .btn.secondary::first-letter {
+  color: #1f3a5f;
+}
