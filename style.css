@@ -187,4 +187,8 @@ header a:last-child {
     display:block;
     margin:0 auto 20px;
 }
-
+#contact a {
+  color: #1f3a5f;
+  font-weight: bold;
+  text-decoration: underline;
+}
