@@ -56,7 +56,7 @@ header a:last-child {
   padding:25px;
   border-radius:20px;
   box-shadow:0 12px 30px rgba(0,25,112,.18);
-  border-top:5px solid #e30613;
+  border-top: 5px solid #1f3a5f;
   font-size:18px;
   font-weight:700;
 }
@@ -84,7 +84,7 @@ header a:last-child {
 }
 
 .price strong{
-  color:#e30613;
+  color: #1f3a5f;
   font-size:34px;
 }
 #documents ul{
@@ -100,7 +100,7 @@ header a:last-child {
 }
 
 #documents li::marker{
-  color:#e30613;
+  color: #1f3a5f;
 }
 .contact{
   background:#001970;
