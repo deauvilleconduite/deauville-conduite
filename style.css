@@ -199,3 +199,6 @@ header a:last-child {
 .hero .btn.secondary::first-letter {
   color: #1f3a5f;
 }
+#contact a {
+  color: #ffffff !important;
+}
